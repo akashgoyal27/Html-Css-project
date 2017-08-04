@@ -1,0 +1,292 @@
+nav{
+	background:black;
+	height:120px;
+}
+.container{
+	max-width:1450px;
+	margin: auto;
+}
+.main2{
+	margin-top: 60px;
+}
+h1{
+	font-size: 40px
+}
+.main-header{
+	font-size: : 70px;
+}
+.background-div{
+	background-image: url('http://freezeitaway.com/wp-content/uploads/2016/04/news_banner.jpg');
+	background-size: cover;
+	color:white;
+	padding:200px 30px 250px;
+}
+#columns{
+	margin-top: 70px;
+
+}
+#columns .box {
+	float:left;
+	text-align:center;
+	font-weight: bold;
+	width:30%;
+	padding:10px;
+}
+#columns .box h3 a{
+	text-decoration: none;
+	color: black;
+
+}
+#columns .box img{
+	
+	width:360px;
+	height:330px;
+
+}
+#columns .box img:hover{
+	opacity: 0.2;
+}
+
+.bakground3-div{
+	background-image: url('http://www.udaipurkiran.com/wp-content/uploads/2017/04/auto-draft-1.jpg');
+	background-size: cover;
+	color:white;
+	padding:200px 30px 250px;
+}
+.main3{
+	margin-top: 260px;
+}
+.container3{
+	width:80%;
+	margin:auto;
+	overflow: hidden;
+
+}
+.nav-logo{
+	float:left;
+	max-width: :150px;
+	max-height: 95px;
+}
+nav{
+	padding: 20px;
+	display:block;
+	background:black;
+	min-height: :20px;
+}
+nav ul{
+	float:right;
+}
+nav ul li{
+	display:inline-block;
+	position:relative;
+	padding:15px;
+}
+nav ul li a{
+	color:white;
+	font-size: 140%;
+	text-decoration: none;
+	padding:5px 10px;
+
+}
+nav ul li a:hover{
+	background:white;
+	color:black;
+}
+.cta{
+	background:transparent;
+	color:white;
+	border-radius:4px;
+	padding:10px 20px;
+	margin-top: 40px;
+	border:1px solid white;
+	color:black;
+	text-decoration: none;
+	font-weight: bold;
+
+}
+.first-button:hover{
+background-color: white;
+	color:black;
+
+}
+.Second-button:hover{
+	background-color: white;
+	color:black;
+	
+}
+footer{
+	background:black;
+	height:90px;
+
+}
+.foot{
+	text-align: center;
+}
+span{
+	font-weight: bold;
+	font-size: 120%;
+	color:white;
+}
+footer ul{
+	/*width:500px;*/
+	display: inline;
+	margin-bottom: 5px;
+}
+footer ul li{
+	display:inline;
+	}
+footer ul li img{
+
+max-width: 20px;
+max-height: 20px;
+}
+footer p{
+	color:white;
+}
+.outerbox{
+	width:1565px;
+	overflow: hidden;
+}
+.sliderbox{
+	position: relative;
+	width:6260px;
+	animation-name:Akash;
+	animation-duration:20s;
+	animation-iteration-count: infinite;
+}
+.sliderbox img{
+	float:left;
+	margin-top: 60px;
+	height:600px;
+	width:1565px;
+}
+@keyframes Akash{
+	0%{
+		left:0px;
+
+	}
+	20%{
+		left:0px;
+	}
+	25%{
+		left:-1565px;
+	}
+	45%{
+		left:-1565px;
+	}
+	50%{
+		left:-3130px;
+	}
+	70%{
+		left:-3130px;
+	}
+	75%{
+		left:-4695px;
+	}
+	95%{
+		left:-4695px;
+	}
+	100%{
+		left:-6260px;
+	}
+	100%{
+		left:6260px;
+	}
+}
+.content{
+display: inline;
+max-height: 150px;
+max-width:200px;
+}
+.content1{
+	margin-left: 5px;
+	margin-top: 110px;
+	width:900px;
+}
+.content1 img{
+	
+	float:left;
+	height:200px;
+
+}
+.content1 h2{
+	float:right;
+	width:500px;
+
+}
+.content1 p{
+	float:right;
+	width:500px;
+}
+.right{
+margin-left: 5px;
+	margin-top: 180px;
+	width:1000px;	
+}
+.right img{
+	float:right;
+	height:200px;	
+}
+.right h2{
+	float:left;
+	width:500px;
+}
+.right p{
+	float:left;
+	width:500px;
+}
+#columns1{
+	margin-top: 70px;
+}
+
+#columns1 .box3 {
+	float:left;
+	text-align:center;
+	font-weight: bold;
+	width:99%;
+	padding-left:40px;
+	padding-right:20px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	background-color: Azure;
+}
+#columns1 .box3 img{
+	float:left;	
+	width:400px;
+	height:250px;
+
+}
+#columns1 .box3 h3 a{
+text-decoration: none;
+}
+#columns1 .box3 img:hover{
+	opacity: 0.2;
+}
+#columns1 .box2 {
+	float:right;
+	text-align:center;
+	font-weight: bold;
+	width:99%;
+	padding-left:40px;
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-bottom: 40px;
+	background-color: MintCream;
+}
+#columns1 .box2 img{
+	float:right;
+	width:400px;
+	height:250px;
+
+}
+#columns1 .box2 img:hover{
+	opacity: 0.2;
+}
+#columns1 .box2 h3 a{
+	text-decoration:none;
+}
+.container4{
+	width:100%;
+	margin:auto;
+	overflow: hidden;
+}
